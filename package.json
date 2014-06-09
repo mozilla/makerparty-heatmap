@@ -1,6 +1,6 @@
 {
   "name": "makerparty-heatmap",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generates a Maker Party styled heatmap given the number of events by country.",
   "main": "index.js",
   "scripts": {

@@ -45,14 +45,15 @@ var MIN_RADIUS = 8;
  * @return {[type]}                     [description]
  */
 function generateHeatmap( eventStatsByCountry ) {
+  var errorHeatmap = '';
   if( heatmap === {} ) {
-    var errorHeatmap = fs.readFileSync( __dirname + '/heatmap.error.svg', 'utf-8' );
+    errorHeatmap = fs.readFileSync( __dirname + '/heatmap.error.svg', 'utf-8' );
     errorHeatmap = errorHeatmap.replace( '{{ error }}', 'failed to load heatmap' );
     return errorHeatmap;
   }
 
   if( !eventStatsByCountry ) {
-    var errorHeatmap = fs.readFileSync( __dirname + '/heatmap.error.svg', 'utf-8' );
+    errorHeatmap = fs.readFileSync( __dirname + '/heatmap.error.svg', 'utf-8' );
     errorHeatmap = errorHeatmap.replace( '{{ error }}', 'failed to get event statistics' );
     return errorHeatmap;
   }
@@ -103,5 +104,5 @@ function generateHeatmap( eventStatsByCountry ) {
 
 module.exports = {
   generateHeatmap: generateHeatmap,
-  getBaseFile: baseFile
+  baseFile: baseFile
 };
