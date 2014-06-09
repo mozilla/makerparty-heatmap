@@ -9,30 +9,6 @@ var fs = require( 'fs' );
 // read the basefile into memory for speedier processing
 var baseFile = fs.readFileSync( __dirname + '/heatmap.base.svg', 'utf-8' );
 
-// store json version of svg
-var heatmap = {};
-// store reference to the heatmaps spots
-var heatmapSpots = {};
-
-// convert the svg to json for easier usage
-xmlparser.parseString( baseFile, function( error, data ) {
-  if( error ) {
-    return console.error( error );
-  }
-
-  heatmap = data;
-
-  // loop through all top level groups till we find the heatmap spots
-  for( var idx = 0, j = data.svg.g.length; idx < j; idx++ ) {
-    var g = data.svg.g[ idx ];
-
-    if( g.$.id === 'mp-heatmap-spots' ) {
-      heatmapSpots = g.g;
-      break;
-    }
-  }
-});
-
 // some boundries
 var MIN_OPACITY = 0.3;
 var MAX_OPACITY = 0.9;
@@ -46,6 +22,31 @@ var MIN_RADIUS = 8;
  */
 function generateHeatmap( eventStatsByCountry ) {
   var errorHeatmap = '';
+
+  // store json version of svg
+  var heatmap = {};
+  // store reference to the heatmaps spots
+  var heatmapSpots = {};
+
+  // convert the svg to json for easier usage
+  xmlparser.parseString( baseFile, function( error, data ) {
+    if( error ) {
+      return console.error( error );
+    }
+
+    heatmap = data;
+
+    // loop through all top level groups till we find the heatmap spots
+    for( var idx = 0, j = data.svg.g.length; idx < j; idx++ ) {
+      var g = data.svg.g[ idx ];
+
+      if( g.$.id === 'mp-heatmap-spots' ) {
+        heatmapSpots = g.g;
+        break;
+      }
+    }
+  });
+
   if( heatmap === {} ) {
     errorHeatmap = fs.readFileSync( __dirname + '/heatmap.error.svg', 'utf-8' );
     errorHeatmap = errorHeatmap.replace( '{{ error }}', 'failed to load heatmap' );
