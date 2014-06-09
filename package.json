@@ -1,0 +1,21 @@
+{
+  "name": "makerparty-heatmap",
+  "version": "0.1.0",
+  "description": "Generates a Maker Party styled heatmap given the number of events by country.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mozilla",
+    "makerparty",
+    "webmaker",
+    "heatmap",
+    "svg"
+  ],
+  "author": "William Duyck",
+  "license": "MPL-2",
+  "dependencies": {
+    "xml2js": "^0.4.4"
+  }
+}
