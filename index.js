@@ -7,7 +7,7 @@ var xmlbuilder = new xml2js.Builder();
 var fs = require( 'fs' );
 
 // read the basefile into memory for speedier processing
-var baseFile = fs.readFileSync( './heatmap.base.svg', 'utf-8' );
+var baseFile = fs.readFileSync( __dirname + '/heatmap.base.svg', 'utf-8' );
 
 // store json version of svg
 var heatmap = {};
@@ -46,13 +46,13 @@ var MIN_RADIUS = 8;
  */
 function generateHeatmap( eventStatsByCountry ) {
   if( heatmap === {} ) {
-    var errorHeatmap = fs.readFileSync( './heatmap.error.svg', 'utf-8' );
+    var errorHeatmap = fs.readFileSync( __dirname + '/heatmap.error.svg', 'utf-8' );
     errorHeatmap = errorHeatmap.replace( '{{ error }}', 'failed to load heatmap' );
     return errorHeatmap;
   }
 
   if( !eventStatsByCountry ) {
-    var errorHeatmap = fs.readFileSync( './heatmap.error.svg', 'utf-8' );
+    var errorHeatmap = fs.readFileSync( __dirname + '/heatmap.error.svg', 'utf-8' );
     errorHeatmap = errorHeatmap.replace( '{{ error }}', 'failed to get event statistics' );
     return errorHeatmap;
   }
@@ -93,7 +93,7 @@ function generateHeatmap( eventStatsByCountry ) {
   // one more pass to remove any + all empty circles
   var l = heatmapSpots.length;
   while( l-- ) {
-    if( heatmapSpots[ l ].text[ 0 ]._ === 0 ) {
+    if( heatmapSpots[ l ].text[ 0 ]._ === '0' ) {
       heatmapSpots.splice( l, 1 );
     }
   }
