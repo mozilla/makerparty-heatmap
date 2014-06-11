@@ -3,19 +3,19 @@ Generates a Maker Party styled heatmap given the number of events by country.
 
 ## Install
 
-	npm install --save fuzzyfox/makerparty-heatmap
+	npm install --save makerparty-heatmap
 
 ## Usage
 The heatmap is intended to be used within an express app but should work anywhere. It has 2 methods, one returns the base svg used to generate heatmaps.
 The other actually generates a heatmap given event stats by country.
 
-	var heatmap = require('makerparty-heatmap');
-	var request = require('request');
+	var heatmap = require( 'makerparty-heatmap' );
+	var request = require( 'request' );
 
-	app.get('/heatmap.svg', function(req, res) {
-	  request.get('http://party.webmaker.org/event-stats', function(error, response, data){
-		var stats = JSON.parse(data);
-		res.send(heatmap.generateHeatmap(stats.byCountry));
+	app.get( '/heatmap.svg', function( req, res ) {
+	  request.get( 'http://party.webmaker.org/event-stats' , function( error, response, data ) {
+		var stats = JSON.parse( data );
+		res.send( heatmap.generateHeatmap( stats.byCountry ) );
 	  });
 	});
 

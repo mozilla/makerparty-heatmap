@@ -13,9 +13,21 @@
     "heatmap",
     "svg"
   ],
-  "author": "William Duyck",
-  "license": "MPL-2",
+  "author": "Mozilla Foundation",
+  "contributors": {
+    "name": "William Duyck",
+    "email": "wduyck@mozillafoundation.org"
+  },
+  "license": "MPL-2.0",
   "dependencies": {
     "xml2js": "^0.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/mozilla/makerparty-heatmap/issues"
+  },
+  "homepage": "https://github.com/mozilla/makerparty-heatmap",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mozilla/makerparty-heatmap"
   }
 }
