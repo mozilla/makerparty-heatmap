@@ -384,219 +384,295 @@
   <g id="mp-heatmap-spots">
     <g id="GB">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="460.1" cy="207.9" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 460.1 212.9)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 460.1 212.9)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="US">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="218.9" cy="255.3" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 218.9 260.3)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 218.9 260.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="DE">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="499" cy="220.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 499 225.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 499 225.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="ES">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="462.9" cy="251.3" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 462.9 256.3)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 462.9 256.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="IN">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="653.7" cy="304.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 653.7 309.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 653.7 309.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="AU">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="782.5" cy="454.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 782.5 459.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 782.5 459.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="ID">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="728.5" cy="386.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 728.5 391.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 728.5 391.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="PH">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="755.4" cy="343.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 755.4 348.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 755.4 348.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="CN">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="707" cy="287.3" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 707 292.3)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 707 292.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="BR">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="344.8" cy="408.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 344.8 413.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 344.8 413.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="CI">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="458.1" cy="365.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 458.1 370.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 458.1 370.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="CA">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="260.8" cy="196.3" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 260.8 201.3)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 260.8 201.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="PK">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="621.3" cy="294.9" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 621.3 299.9)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 621.3 299.9)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="GH">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="474.7" cy="358.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 474.7 363.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 474.7 363.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="NG">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="491.7" cy="361.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 491.7 366.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 491.7 366.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="BW">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="522.6" cy="440" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 522.6 445)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 522.6 445)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="ZA">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="522.6" cy="470.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 522.6 475.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 522.6 475.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="IO">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="626.4" cy="396.9" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 626.4 401.9)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 626.4 401.9)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="SD">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="540" cy="325.6" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 540 330.6)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 540 330.6)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="JO">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="558.5" cy="296.4" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 558.5 301.4)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 558.5 301.4)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="RU">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="688.3" cy="184.4" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 688.3 189.4)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 688.3 189.4)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="NO">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="484.4" cy="176" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 484.4 181)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 484.4 181)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="PL">
-      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="521" cy="200.7" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 521 205.7)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="518" cy="210.7" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 518 215.7)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="UA">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="525.7" cy="232.4" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 525.7 237.4)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 525.7 237.4)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="HU">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="508.3" cy="241" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 508.3 245)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 508.3 245)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="CH">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="488.9" cy="233.5" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 488.9 238.5)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 488.9 238.5)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="NP">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="670.6" cy="283.1" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 670.6 288.1)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 670.6 288.1)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="TW">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="751.8" cy="310.3" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 751.8 315.3)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 751.8 315.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="TH">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="706.5" cy="341.7" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 706.5 346.7)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 706.5 346.7)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="MY">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="712.4" cy="372.5" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 712.4 377.5)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 712.4 377.5)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="NZ">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="868" cy="509.6" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 868 514.6)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 868 514.6)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="MU">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="597.3" cy="439.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 597.3 444.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 597.3 444.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="IE">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="445.6" cy="209.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 445.6 214.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 445.6 214.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="JP">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="789.5" cy="271.7" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 789.5 276.7)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 789.5 276.7)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="IT">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="494.4" cy="256.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 494.4 261.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 494.4 261.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="SE">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="509.8" cy="164.3" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 509.8 169.3)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 509.8 169.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="RO">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="525.7" cy="248" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 525.7 253)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 525.7 253)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="SY">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="553.4" cy="277.9" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 553.4 282.9)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 553.4 282.9)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="YE">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="570.7" cy="329.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 570.7 334.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 570.7 334.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="PT">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="446.9" cy="257.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 446.9 262.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 446.9 262.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="UG">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="540" cy="375" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 540 380)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 540 380)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="BD">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="680.7" cy="306.5" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 680.7 311.5)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 680.7 311.5)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="NL">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="474.1" cy="212.3" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 474.1 217.3)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 474.1 217.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="GR">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="518.8" cy="261.7" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 518.8 266.7)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 518.8 266.7)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="FR">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="472.3" cy="233.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 472.3 238.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 472.3 238.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="KE">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="566" cy="379.5" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 566 384.5)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 566 384.5)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="MX">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="229.7" cy="317.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 229.7 322.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 229.7 322.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="NI">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="265.9" cy="351.7" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 265.9 356.7)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 265.9 356.7)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="CO">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="285.8" cy="375.5" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 285.8 380.5)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 285.8 380.5)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="BO">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="308.1" cy="420" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 308.1 425)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 308.1 425)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="MM">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="690.2" cy="318.1" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 690.2 323.1)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 690.2 323.1)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="AR">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="320" cy="481.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 320 486.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 320 486.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="UY">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="338.7" cy="470.2" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 338.7 475.2)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 338.7 475.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
     <g id="KR">
       <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="769.8" cy="275.8" r="8"/>
-      <text text-anchor="middle" transform="matrix(1 0 0 1 769.8 280.8)" fill="#00B0B7" font-family="&apos;OpenSans-Semibold&apos;" font-size="9.75">0</text>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 769.8 280.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="AE">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="600" cy="309.8" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 600 314.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="AL">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="515.7" cy="253" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 515.7 258)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="EG">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="538.5" cy="296.4" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 538.5 301.4)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="ET">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="560.7" cy="359.8" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 560.7 364.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="FI">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="526.8" cy="169.3" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 526.8 174.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="HR">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="515.7" cy="248" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 515.7 253)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="IS">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="419.8" cy="164.3" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 419.8 169.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="SL">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="661.7" cy="359.8" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 661.7 364.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="ML">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="474.7" cy="328.8" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 474.7 333.8)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="LT">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="525" cy="205.7" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 525 210.7)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="MN">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="707" cy="247.3" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 707 252.3)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="PE">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="287.8" cy="406.2" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 287.8 411.2)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="PY">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="328.1" cy="435" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 328.1 440)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="RW">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="538" cy="385" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 538 390)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="SI">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="500.3" cy="236" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 500.3 240)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="TN">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="483.4" cy="275.9" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 483.4 280.9)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="TR">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="547.4" cy="260.9" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 547.4 265.9)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="ZM">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="527.6" cy="426" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 527.6 430)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
+    </g>
+    <g id="ZW">
+      <circle opacity="0.9" style="filter:url(#mp-heatmap-shadow)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFE600" cx="532.6" cy="430" r="8"/>
+      <text text-anchor="middle" transform="matrix(1 0 0 1 532.6 434)" fill="#00B0B7" font-family="OpenSans-Semibold" font-size="9.75">0</text>
     </g>
   </g>
 </svg>
